@@ -1,0 +1,17 @@
+name: Metrics
+on:
+  #Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.languages.svg
+          token: ${{ seecrets.METRICS_TOKEN}}
+          plugin_languages: yes
+          commits_authoring: wey1998, yitwey1998@hotmail.com
+          
