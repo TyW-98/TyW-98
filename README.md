@@ -1,18 +1,15 @@
 ![Graduate Aerospace Engineer and aspiring Data Scientist](https://aicore-files.s3.amazonaws.com/hiring-process/LinkedIn+Banner.png)
-<h3 style="font-size:30px"><strong>Hi there 👋, my name is Yit Wey</strong></h3>
+<h1 style="font-size:30px"><strong>Welcome👋</strong></h3>
 
-#### **Graduate Aerospace Engineer and aspiring Data Scientist**
-<hr>
+<p> 👋 Hi there! I'm Yit Wey, a graduate aerospace engineer specializing in gas turbine technology. </p>
+<p> 🚀 I'm currently working on honing my skills as a data scientist and machine learning engineer. </p>
+<p> 💻 My technical skills include Python, machine learning algorithms, data visualization, and more. </p>
+<p> 🔍 I'm passionate about leveraging data to solve complex problems and create value for businesses and society. </p>
+<p> 🌟 In my free time, I enjoy exploring new technologies and working on personal projects. <p>
+<p> 📫 Let's connect! You can find me on [Linkedin](https://www.linkedin.com/in/yitwey-tam/)<p>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Thanks for stopping by!
 
-- 🔭 I’m currently working on developing a greater understanding for deep learning. 
-
-
-<h3 align="left"style="display:inline;">Connect with me:</h3>
-<p align="left" style="display:inline;"></p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yitwey-tam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yitwey-tam/" height="30" width="40" /></a> <a href="mailto:yitwey1998@hotmail.com"><img align="center" src=email-icon.svg height="35" width = "40">
-</p>
 
 <img align="center" src="github-metrics.svg" alt="Metrics" width="450">
 
