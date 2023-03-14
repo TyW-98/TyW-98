@@ -1,12 +1,10 @@
 ![Graduate Aerospace Engineer and aspiring Data Scientist](https://aicore-files.s3.amazonaws.com/hiring-process/LinkedIn+Banner.png)
-<h1 style="font-size:30px"><strong>Welcome👋</strong></h3>
 
-<p> 👋 Hi there! I'm Yit Wey, a graduate aerospace engineer specializing in gas turbine technology. </p>
-<p> 🚀 I'm currently working on honing my skills as a data scientist and machine learning engineer. </p>
-<p> 💻 My technical skills include Python, machine learning algorithms, data visualization, and more. </p>
+<p>  👋 Hi there! I'm Yit Wey, a graduate aerospace engineer with a passion for data science and machine learning. </p>
+<p> 🚀 I'm on a mission to enhance my skills and become a proficient data scientist and machine learning engineer.  </p>
 <p> 🔍 I'm passionate about leveraging data to solve complex problems and create value for businesses and society. </p>
-<p> 🌟 In my free time, I enjoy exploring new technologies and working on personal projects. <p>
-<p> 📫 Let's connect! You can find me on [Linkedin](https://www.linkedin.com/in/yitwey-tam/)<p>
+<p> 👨‍💻  During my free time, I love exploring new technologies and tinkering with personal projects to apply what I've learned. <p>
+<p> 📫 Let's connect! You can find me on <a href=https://www.linkedin.com/in/yitwey-tam/><strong>Linkedin</strong></a>.<p>
 
 Thanks for stopping by!
 
