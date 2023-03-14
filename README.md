@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yit Wey</h1>
-<h3 align="center">A Machine learning Enthusiasts</h3>
+<h3 style="font_size:30px"><strong>Welcome to my Github page</strong></h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yitwey-tam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yitwey-tam/" height="30" width="40" /></a> <a href="mailto:yitwey1998@hotmail.com"><img align="center" src=email-icon.svg height="60" width = "40"></a>
+
+
+<h3 align="left"style="display:inline;">Connect with me:</h3>
+<p align="left" style="display:inline;"></p>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yitwey-tam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yitwey-tam/" height="30" width="40" /></a> <a href="mailto:yitwey1998@hotmail.com"><img align="center" src=email-icon.svg height="35" width = "40">
 </p>
 
 <img align="center" src="github-metrics.svg" alt="Metrics" width="400">
