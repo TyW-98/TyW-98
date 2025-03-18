@@ -1,4 +1,4 @@
-![Graduate Aerospace Engineer and aspiring AI engineer]
+## Graduate Aerospace Engineer and aspiring AI engineer
 
 <p>  👋 Hi there! I'm Yit Wey, a graduate aerospace engineer with a passion for web development and machine learning. </p>
 <p> 🚀 I'm on a mission to enhance my skills and become a proficient AI Engineer and Full Stack Web developer.  </p>
