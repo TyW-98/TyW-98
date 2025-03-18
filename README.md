@@ -1,7 +1,7 @@
-![Graduate Aerospace Engineer and aspiring Data Scientist](https://aicore-files.s3.amazonaws.com/hiring-process/LinkedIn+Banner.png)
+![Graduate Aerospace Engineer and aspiring AI engineer]
 
 <p>  👋 Hi there! I'm Yit Wey, a graduate aerospace engineer with a passion for web development and machine learning. </p>
-<p> 🚀 I'm on a mission to enhance my skills and become a proficient data scientist and Full Stack Web developer.  </p>
+<p> 🚀 I'm on a mission to enhance my skills and become a proficient AI Engineer and Full Stack Web developer.  </p>
 <p> 🔍 I'm passionate about leveraging data to solve complex problems and create value for businesses and society. </p>
 <p> 👨‍💻  During my free time, I love exploring new technologies and tinkering with personal projects to apply what I've learned. <p>
 <p> 📫 Let's connect! You can find me on <a href=https://www.linkedin.com/in/yitwey-tam/><strong>Linkedin</strong></a>.<p>
